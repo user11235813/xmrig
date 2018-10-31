@@ -1,3 +1,6 @@
+# v2.8.3-nodonations
+- disabled donations
+
 # v2.8.3
 - [#813](https://github.com/xmrig/xmrig/issues/813) Fixed critical bug with Minergate pool and variant 2.
 
